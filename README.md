@@ -5,6 +5,6 @@ since im changing my websites design, some sub folders rely on some things from 
 for ex:
 wii shop sounds, or images
 <br>
-https://chrisplayzwii.github.io/sounds/wiishopsounds/1-16.wav
-<br>
-https://chrisplayzwii.github.io/chris.png
+https://thewiiarchivist.github.io/sounds/wiishopsounds/1-16.wav
+would become:
+https://thewiiarchivist.github.io/for-compatibility/sounds/wiishopsounds/1-16.wav
